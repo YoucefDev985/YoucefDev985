@@ -1,10 +1,10 @@
-<div align="center" width="50">
+ <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
 
@@ -23,11 +23,11 @@
 
 ## 🚀 About Me
 
-💻 Full-Stack Developer  
-⚙️ Building real-world systems & SaaS platforms  
-🧠 Thinking like a System Architect  
-🔥 Focused on scalable web applications  
-🎯 Passion: Turning ideas into real products  
+💻 Full-Stack Developer  
+⚙️ Building real-world systems & SaaS platforms  
+🧠 Thinking like a System Architect  
+🔥 Focused on scalable web applications  
+🎯 Passion: Turning ideas into real products  
 
 ---
 
@@ -72,6 +72,7 @@
 
 ---
 
+### 🍔 Restaurant Website
 - Menu system 🍽️
 - Online order system
 - Admin panel for managing orders
@@ -79,13 +80,15 @@
 
 ---
 
-👉 https://youcefhmdev.netlify.app  
+### 🌐 Personal Portfolio
+👉 https://youcefhmdev.netlify.app  
 - Showcase of all my work
 - Modern UI design
 - Fast & responsive website
 
 ---
 
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -97,20 +100,23 @@
 
 ---
 
+## ⚡ Code Cycle
 
 <div align="center">
 
-😵 → 😌 → 😲  
-<br>
-Code → Debug → Deploy → Repeat 🚀
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 </div>
 
 ---
 
+## 📬 Contact
 
-
-- Telegram: https://t.me/yourusername  
-- Portfolio: https://youcefhmdev.netlify.app  
+- Telegram: https://t.me/yourusername  
+- Portfolio: https://youcefhmdev.netlify.app  
 
 </div>
