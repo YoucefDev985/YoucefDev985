@@ -1,62 +1,88 @@
 <div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="50%"/>
+  
+  # ⚡ 丂𝙋⚡乂𝘿 
+  ### 「 Full-Stack Developer | Linux Enthusiast | Open Source Contributor 」
+  
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="35%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SaaS+Builder;Freelance+Platform+Architect;Always+Building+Something+Big..." />
+  [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 
-<br><br>
+  ---
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="45%" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=your-username&style=flat&color=blue&label=Profile+Views"/>
+  ![Profile Views](https://komarev.com/ghpvc/?username=SP-XD&style=for-the-badge&color=orange&label=VISITORS)
+  ![HITS](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%23E67E22&title_bg=%232C3E50&icon=mediafire.svg&icon_color=%23E7E7E7&title=TRAFFIC&edge_flat=false)
+  [![Telegram](https://img.shields.io/badge/Connect-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/spxd007)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🛠 Tech Stack & Arsenal
 
-- 🚀 Full-Stack Developer focused on building **real-world platforms**
-- 🧠 Thinking like a **System Architect (not just a coder)**
-- 💼 Currently building a **Freelance Marketplace (SaaS style)**
-- ⚡ Strong in **Backend Logic, Dashboards & Systems**
-- 🎯 Goal: Build scalable products used by thousands
+### 💻 Languages & Frameworks
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Frappe](https://img.shields.io/badge/Frappe-Framework-orange?style=for-the-badge&logo=frappe)
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Core Skills
-![PHP](https://img.shields.io/badge/PHP-8892BF?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### ⚙️ Backend & Database
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+### 🗄️ Infrastructure & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🧠 Current Focus
+## 🧠 Git Stats & Insights
 
-```js
-const currentMission = {
-  project: "Freelance Platform (DzFreelance)",
-  focus: [
-    "Authentication System 🔐",
-    "Dashboard (Admin + User) 📊",
-    "Messaging System 💬",
-    "Secure Payments 💳",
-    "Scalable Backend ⚙️"
-  ],
-  mindset: "Build like a startup founder 🚀"
-};
+```dart
+class DeveloperProfile extends SP_XD {
+  final List<String> focus = ["Frappe Framework", "System Optimization"];
+  final bool lovesLinux = true;
+  final String status = "Converting caffeine into scalable code...";
+
+  void currentActivity() {
+    print("Learning Frappe & Hardening Linux Kernels");
+  }
+}
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
+
+<details>
+<summary>📂 <b>View Detailed System Logs (More Stats)</b></summary>
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" width="100%">
+</details>
+</div>
+
+🛰️ Transmission Details
+🚀 Currently Ascending: Mastering the Frappe Framework for ERPNext ecosystems.
+
+🐧 Kernel Vibes: Deep-diving into GNU/Linux customization and shell scripting.
+
+💬 Open Channel: Inquire about PC Architecture, Cinematography, or Software Logic.
+
+⚡ Random Access Memory: Banging your head against a wall for one hour burns 150 calories. (Not recommended for debugging).
+
+🔄 The Debugging Cycle
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="8%" title="Code is broken!"/>
+&nbsp;&nbsp;&nbsp;&nbsp; ➔ &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="8%" title="It's fixed!"/>
+&nbsp;&nbsp;&nbsp;&nbsp; ➔ &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="8%" title="Wait... why does it work?"/>
+
+
+<sub><i>"Programming is the art of telling another human what he/she wants the computer to do."</i></sub>
+</div>
+
+<div align="right">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="50" />
+</div>
