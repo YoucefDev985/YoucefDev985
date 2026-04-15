@@ -62,7 +62,7 @@ class About extends Me {
   };
 }
 ```
--
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />&nbsp;&nbsp;&nbsp; I’m currently building **freelance systems and SaaS web applications**. <br>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I focus on **full-stack web development and system architecture (Frontend + Backend)**. <br>
