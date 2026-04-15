@@ -116,7 +116,13 @@
 
 ## 📬 Contact
 
-- Telegram: https://t.me/yourusername  
-- Portfolio: https://youcefhmdev.netlify.app  
+<div align="center">
+
+📩 Telegram → https://t.me/yourusername  
+🌐 Portfolio → https://youcefhmdev.netlify.app  
+
+<br>
+
+💡 "Open for Freelance & Collaboration"
 
 </div>
