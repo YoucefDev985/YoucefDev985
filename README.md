@@ -1,81 +1,120 @@
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-
-<h2>👋 Hi, I'm <span style="color:#00FFFF;">YoucefDev985</span></h2>
-
-<p><strong>🚀 Full-Stack Developer | SaaS Builder | System Architect</strong></p>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong><summary>🎧 Busy coding & Vibing to :</summary></strong></p>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <br>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
 
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YoucefDev985&style=flat&color=00ffff&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YoucefDev985&count_bg=%2300FFFF&title_bg=%23000000&icon=code.svg&icon_color=%23FFFFFF&title=VISITS&edge_flat=false)
+![Totals Hits](https://komarev.com/ghpvc/?username=YoucefDev985&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoucefDev985&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
 [![telegram badge](https://img.shields.io/badge/YoucefDev-grey?style=flat&logo=telegram)](https://t.me/yourusername) <br>
 
 </div>
 
-<hr>
+<hr></hr>
+
+---
 
 ## 🚀 About Me
 
-- 💻 Building **real-world platforms (Freelance Marketplace SaaS)**
-- 🧠 I think like a **System Architect, not just a coder**
-- ⚙️ Strong in **Backend, Dashboards & Logic Systems**
-- 🎯 Focused on **scalable & secure applications**
-- 🔥 Goal: Build products used by **thousands of users**
+💻 Full-Stack Developer  
+⚙️ Building real-world systems & SaaS platforms  
+🧠 Thinking like a System Architect  
+🔥 Focused on scalable web applications  
+🎯 Passion: Turning ideas into real products  
 
 ---
 
 ## 🛠️ Tools I Use
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tech%20Stack-00FFFF)
-![semicolon](https://img.shields.io/badge/-%3A-00FFFF)
-
 ![PHP](https://img.shields.io/badge/PHP-8892BF?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Vscode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
-```dart
-// Developer Identity
+## 📁 My Projects
 
-class YoucefDev985 extends Developer { 
-  final String role = "Full Stack Developer & SaaS Builder";
+### 🚀 Freelance Platform (SaaS System)
+- Full marketplace system (Clients + Freelancers)
+- Admin dashboard 📊
+- Messaging system 💬
+- Authentication & security 🔐
 
-  final skills = {
-    "Frontend": ["HTML", "CSS", "JavaScript"],
-    "Backend": ["PHP", "MySQL"],
-    "Database": ["SQLite", "Firebase"],
-    "Tools": ["Git", "Figma", "VS Code"]
-  };
+---
 
-  final currentFocus = [
-    "Freelance Platform",
-    "Admin Dashboard",
-    "Authentication Systems",
-    "Messaging System",
-    "Secure Payments"
-  ];
-}
+### 🚚 Delivery Management System
+- Orders tracking system
+- Admin + delivery dashboard
+- Real-time order status
+- Database powered (MySQL + PHP)
+
+---
+
+### 🍔 Restaurant Website
+- Menu system 🍽️
+- Online order system
+- Admin panel for managing orders
+- Responsive UI
+
+---
+
+### 🌐 Personal Portfolio
+👉 https://youcefhmdev.netlify.app  
+- Showcase of all my work
+- Modern UI design
+- Fast & responsive website
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YoucefDev985&show_icons=true&theme=tokyonight" width="32.5%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YoucefDev985&theme=tokyonight" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoucefDev985&layout=compact&theme=tokyonight" width="32.5%">
+
+</div>
+
+---
+
+## ⚡ Code Cycle
+
+<div align="center">
+
+😵 → 😌 → 😲  
+<br>
+"Fixing bug... introducing new bug 😭"
+
+</div>
+
+---
+
+## 📬 Contact
+
+- Telegram: https://t.me/yourusername  
+- Portfolio: https://youcefhmdev.netlify.app  
+
+</div>
